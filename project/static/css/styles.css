@@ -1,0 +1,66 @@
+body {
+    background-color:#dcdfe8;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+
+}
+form {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 15px;
+    
+
+}
+.play-music {
+    text-align: center;
+    
+}
+.search-button {
+    font-family: 'Roboto', sans-serif;
+}
+.search {
+    font-family: 'Roboto', sans-serif;
+}
+
+.results {
+    font-family: 'Roboto', sans-serif;
+    
+
+}
+
+.results-list {
+    font-family: 'Roboto', sans-serif;
+    /* border: black; */
+    /* border-width: 5px;
+    border-style: solid; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 90%;
+    
+    /* padding-right: 5vw;
+    padding-left: 5vw; */
+}
+.music-result {
+    /* border: black; */
+    /* border-width: 5px;
+    border-style: solid; */
+    width: 18%;
+    text-align: center;
+    padding: 10px;
+    
+    
+}
+
+button {
+    font-family: 'Roboto', sans-serif; 
+    
+
+}
+
+.artist-name {
+    color: #C14C15;
+}
